@@ -2,8 +2,11 @@
 
 ## DATOS SOBRE MI
 🏍️ Apasionado por las motos
-🚀 Listo para aprender nuevas tecnologías 
+
+🚀 Listo para aprender nuevas tecnologías
+
 ❄️ Estudiante de Licenciatura en Ingenieria en Sistemas Computacionales
+
 🌎 Pasión por mejorar dia con dia
 
 ## LENGUAJES DE PROGRAMACIÓN:
